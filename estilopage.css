@@ -1,0 +1,31 @@
+
+.banner{
+	padding:0px;
+}
+
+.textobanner{
+	position: absolute;
+	top:25%;
+	color:white;
+}
+
+.footer{
+	color:white;
+}
+
+.ultimaparte{
+  width: 88%;
+  border:0;
+  text-align:left;
+  margin-left: 50px;
+  margin-top: 25px;
+  margin-bottom: 40px;
+  font-size: 14px;
+  right: 0;
+}
+
+.navleft{
+	text-align: right;
+}
+
+
